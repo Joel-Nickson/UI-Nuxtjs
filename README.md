@@ -1,4 +1,4 @@
-# ui
+# nuxtjs-pg-ui
 
 ## Build Setup
 
